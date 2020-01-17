@@ -1,3 +1,3 @@
 # GEE-Python
 
-![For Spatial Analysis](https://raw.githubusercontent.com/wanwanliang/GEE-Python/tree/master/files/map.PNG)
+![For Spatial Analysis](https://github.com/wanwanliang/GEE-Python/blob/master/files/map.JPG/map.PNG)
